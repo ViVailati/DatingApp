@@ -491,7 +491,7 @@ DatingApp.postman_collection.json
 # API specific files
 API/appsettings.json
 API/dating.db*
-API/API.http
+API/*.http
 
 # SSL
 ssl/
